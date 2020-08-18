@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\onedrive\astrostack\astrostack\main.cpp(14): warning C4129: “S”: 不可识别的字符转义序列
+c:\onedrive\astrostack\astrostack\main.cpp(14): warning C4129: “M”: 不可识别的字符转义序列
+c:\onedrive\astrostack\astrostack\main.cpp(14): warning C4129: “L”: 不可识别的字符转义序列
+c:\onedrive\astrostack\astrostack\main.cpp(14): warning C4129: “D”: 不可识别的字符转义序列
+opencv_world410.lib(opencv_world410.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
